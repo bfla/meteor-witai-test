@@ -5,6 +5,7 @@
 
 ### Helpful References: 
 - https://themeteorchef.com/recipes/writing-a-package/#tmc-getting-started
+- https://github.com/warrenmcquinn/meteor-wit-ai/ (worth investigating, although a bit stale and not well documented)
 
 ### Todos
 - Create a meteor package for wit.ai
